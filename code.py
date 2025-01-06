@@ -1,0 +1,1 @@
+print("Mani+Git course")
